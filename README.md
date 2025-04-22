@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying at Grambling State University<br>I'm looking to collaborate with people who are enthusiastic at UI/UX<br>I'm looking for help with understanding vite<br>I'm currently learning react/typescript/tailwind CSS<br>Fun fact about me is that I'm a huge game enthusiast that hopes to make his own games one day 
+🔭I'm currently studying at Grambling State University<br>👯I'm looking to collaborate with people who are enthusiastic at UI/UX<br>🤔I'm looking for help with understanding vite<br>🌱I'm currently learning react/typescript/tailwind CSS<br>⚡Fun fact about me is that I'm a huge game enthusiast that hopes to make his own games one day 
 
 
 ## 🌐 Socials:
