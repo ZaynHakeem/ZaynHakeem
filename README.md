@@ -18,6 +18,12 @@ I'm currently studying at Grambling State University<br>I'm looking to collabora
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZaynHakeem/ZaynHakeemr/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZaynHakeem/ZaynHakeem/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ZaynHakeem/ZaynHakeem/output/github-snake.svg" />
+</picture>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **ZaynHakeem/ZaynHakeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
